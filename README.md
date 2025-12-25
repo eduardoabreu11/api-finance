@@ -51,18 +51,7 @@ src/
 
 ---
 
-## 🛠️ Instalação e Execução
 
-### Instalar dependências
-```bash
-npm install
-```
-
-### Criar arquivo `.env`
-```
-PORT=3001
-JWT_SECRET=seu_token_secreto
-```
 
 ### Iniciar o servidor
 ```bash
